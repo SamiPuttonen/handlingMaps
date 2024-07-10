@@ -8,7 +8,6 @@ function App() {
             <MapComponent />
         </div>
     );
-
 }
 
 export default App
